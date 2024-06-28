@@ -16,8 +16,8 @@ document.getElementById("backToTop").onclick = function() {
 
 // Disqus
 var disqus_config = function () {
-    this.page.url = 'Адрес вашей страницы';  // Укажите адрес вашей страницы
-    this.page.identifier = 'Уникальный идентификатор'; // Укажите уникальный идентификатор страницы (можете использовать URL страницы)
+    this.page.url = 'https://leny1050.github.io/Flud/';  // Укажите адрес вашей страницы
+    this.page.identifier = 'https://leny1050.github.io/Flud/'; // Укажите уникальный идентификатор страницы (можете использовать URL страницы)
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
